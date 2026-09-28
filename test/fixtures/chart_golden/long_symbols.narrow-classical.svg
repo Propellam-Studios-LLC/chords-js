@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="cc-chart cc-chart--letters cc-chart--classical" viewBox="0 0 360 88" width="360" height="88" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" data-bars="4" data-lines="1" data-mode="letters" data-notation="classical"><style>.cc-chart {
+  --cc-ink: #1a1a1a; --cc-muted: #7a8288; --cc-line: #444a4f; --cc-bg: transparent;
+  --cc-part: #2c3e50; --cc-part-bg: #eef2f5; --cc-volta: #c0392b; --cc-annot: #8e44ad;
+  --cc-correct: #1e8e3e; --cc-wrong: #c62828; --cc-missed: #ef6c00;
+  --cc-active-tint: #e8f0fe; --cc-active-ink: #1558d6;
+  --cc-selected-tint: #d7e3ff; --cc-selected-line: #1558d6;
+  background: var(--cc-bg);
+}
+.cc-sym { fill: var(--cc-ink); font-weight: 700; }
+.cc-qual, .cc-alt { font-weight: 600; }
+.cc-bass { font-weight: 600; }
+.cc-barline { stroke: var(--cc-line); stroke-width: 1.2; fill: none; }
+.cc-barline--thick { fill: var(--cc-line); stroke: none; }
+.cc-repeat-dot { fill: var(--cc-line); }
+.cc-part { fill: var(--cc-part); font-size: 11px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
+.cc-part-box { fill: var(--cc-part-bg); }
+.cc-volta-bracket { stroke: var(--cc-volta); stroke-width: 1.2; fill: none; }
+.cc-volta-num { fill: var(--cc-volta); font-size: 9px; font-weight: 700; }
+.cc-barnum { fill: var(--cc-muted); font-size: 9px; }
+.cc-rownum { fill: var(--cc-muted); font-size: 11px; font-weight: 700; }
+.cc-annot { fill: var(--cc-annot); font-size: 11px; }
+.cc-title { fill: var(--cc-ink); font-size: 15px; font-weight: 700; }
+.cc-composer { fill: var(--cc-muted); font-size: 11px; }
+.cc-chord.is-correct .cc-sym { fill: var(--cc-correct); }
+.cc-chord.is-wrong .cc-sym { fill: var(--cc-wrong); }
+.cc-chord.is-missed .cc-sym { fill: var(--cc-missed); }
+.cc-chord.is-active .cc-sym { fill: var(--cc-active-ink); }
+.cc-bar.is-active .cc-bar-hit, .cc-line.is-active-row .cc-bar-hit { fill: var(--cc-active-tint); }
+.cc-chord.is-dim .cc-sym, .cc-bar.is-dim .cc-sym { opacity: .4; }
+.cc-annot-entry { fill: var(--cc-ink); font-size: 11px; font-style: italic; }
+.cc-chord.is-correct .cc-annot-entry { fill: var(--cc-correct); }
+.cc-chord.is-wrong .cc-annot-entry { fill: var(--cc-wrong); }
+.cc-chord.is-missed .cc-annot-entry { fill: var(--cc-missed); }
+.cc-bar.is-selected .cc-bar-hit, .cc-chord.is-selected .cc-slot-hit {
+  fill: var(--cc-selected-tint); stroke: var(--cc-selected-line); stroke-width: 1.5;
+}
+@media (prefers-color-scheme: dark) {
+  .cc-chart {
+    --cc-ink: #e8eaed; --cc-muted: #9aa0a6; --cc-line: #9aa0a6;
+    --cc-part: #cfd8dc; --cc-part-bg: #2a2f34; --cc-volta: #ef9a9a; --cc-annot: #ce93d8;
+    --cc-correct: #81c995; --cc-wrong: #f28b82; --cc-missed: #fcad70;
+    --cc-active-tint: #253046; --cc-active-ink: #8ab4f8;
+    --cc-selected-tint: #31405c; --cc-selected-line: #8ab4f8;
+  }
+}</style><g class="cc-section"><g class="cc-line" data-line="0" data-first-bar="0"><path class="cc-barline cc-barline--plain" data-after-bar="0" d="M12 12V68"/><path class="cc-barline cc-barline--plain" data-before-bar="0" data-after-bar="1" d="M96 12V68"/><path class="cc-barline cc-barline--plain" data-before-bar="1" data-after-bar="2" d="M180 12V68"/><path class="cc-barline cc-barline--plain" data-before-bar="2" data-after-bar="3" d="M264 12V68"/><path class="cc-barline cc-barline--final" data-before-bar="3" d="M344 12V68"/><rect class="cc-barline cc-barline--thick" data-before-bar="3" x="344.8" y="12" width="3.2" height="56"/><g class="cc-bar" id="cc-bar-0" data-bar="0" data-line="0" data-measure="1"><rect class="cc-bar-hit" x="12" y="12" width="84" height="56" fill="transparent"/><g class="cc-chord" id="cc-chord-0-0" data-bar="0" data-slot="0" data-units="1" data-label="D♭maj7♯11/A♭"><rect class="cc-slot-hit" x="12" y="12" width="84" height="56" fill="transparent"/><text class="cc-sym"><tspan class="cc-root" x="20" y="46.72" font-size="14.27">D♭</tspan><tspan class="cc-qual" x="37.83" y="41.87" font-size="8.85">maj7♯11</tspan><tspan class="cc-bass" x="78.08" y="46.72" font-size="11.13">/A♭</tspan></text></g></g><g class="cc-bar" id="cc-bar-1" data-bar="1" data-line="0" data-measure="2"><rect class="cc-bar-hit" x="96" y="12" width="84" height="56" fill="transparent"/><g class="cc-chord" id="cc-chord-1-0" data-bar="1" data-slot="0" data-units="1" data-label="G♭maj7♯11/D♭"><rect class="cc-slot-hit" x="96" y="12" width="42" height="56" fill="transparent"/><text class="cc-sym"><tspan class="cc-root" x="104" y="46.72" font-size="8.55">G♭</tspan><tspan class="cc-qual" x="115.03" y="43.81" font-size="5.3">maj7♯11</tspan><tspan class="cc-bass" x="139.15" y="46.72" font-size="6.67">/D♭</tspan></text></g><g class="cc-chord" id="cc-chord-1-1" data-bar="1" data-slot="1" data-units="1" data-label="A♭m7♭5/G♭"><rect class="cc-slot-hit" x="138" y="12" width="42" height="56" fill="transparent"/><text class="cc-sym"><tspan class="cc-root" x="146" y="46.72" font-size="8.55">A♭</tspan><tspan class="cc-qual" x="156.52" y="43.81" font-size="5.3">m7♭5</tspan><tspan class="cc-bass" x="171.1" y="46.72" font-size="6.67">/G♭</tspan></text></g></g><g class="cc-bar" id="cc-bar-2" data-bar="2" data-line="0" data-measure="3"><rect class="cc-bar-hit" x="180" y="12" width="84" height="56" fill="transparent"/><g class="cc-chord" id="cc-chord-2-0" data-bar="2" data-slot="0" data-units="1" data-label="D♭6/9"><rect class="cc-slot-hit" x="180" y="12" width="84" height="56" fill="transparent"/><text class="cc-sym"><tspan class="cc-root" x="188" y="46.72" font-size="19">D♭</tspan><tspan class="cc-qual" x="211.75" y="40.26" font-size="11.78">6/9</tspan></text></g></g><g class="cc-bar" id="cc-bar-3" data-bar="3" data-line="0" data-measure="4"><rect class="cc-bar-hit" x="264" y="12" width="84" height="56" fill="transparent"/><g class="cc-chord" id="cc-chord-3-0" data-bar="3" data-slot="0" data-units="0.5" data-label="E♭m7♭5"><rect class="cc-slot-hit" x="264" y="12" width="42" height="56" fill="transparent"/><text class="cc-sym"><tspan class="cc-root" x="272" y="46.72" font-size="12">E♭</tspan><tspan class="cc-qual" x="286.28" y="42.64" font-size="7.44">m7♭5</tspan></text></g><g class="cc-chord" id="cc-chord-3-1" data-bar="3" data-slot="1" data-units="0.5" data-label="A♭7♭13"><rect class="cc-slot-hit" x="306" y="12" width="42" height="56" fill="transparent"/><text class="cc-sym"><tspan class="cc-root" x="314" y="46.72" font-size="11.19">A♭</tspan><tspan class="cc-qual" x="327.76" y="42.92" font-size="6.93">7♭13</tspan></text></g></g></g></g></svg>

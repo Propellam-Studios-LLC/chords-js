@@ -1,0 +1,70 @@
+{
+  "name": "chords-js",
+  "version": "0.1.0",
+  "description": "A reference library for the .chords harmony format \u2014 parse, transpose, Roman-numeral analysis, chord-chart rendering, and an ABC bridge to abcjs (the abcjs-analogue for chord progressions).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Propellam-Studios-LLC/chords-js.git"
+  },
+  "homepage": "https://github.com/Propellam-Studios-LLC/chords-js#readme",
+  "bugs": "https://github.com/Propellam-Studios-LLC/chords-js/issues",
+  "license": "MIT",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.esm.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.esm.js",
+      "require": "./dist/index.cjs"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "rollup -c && tsc --emitDeclarationOnly",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "keywords": [
+    "chords",
+    "harmony",
+    "chord-progression",
+    "roman-numeral",
+    "transpose",
+    "music",
+    "notation",
+    "abc",
+    "music-education"
+  ],
+  "peerDependencies": {
+    "abcjs": ">=6.0.0"
+  },
+  "peerDependenciesMeta": {
+    "abcjs": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "@rollup/plugin-json": "^6.1.0",
+    "@rollup/plugin-typescript": "^12.3.0",
+    "@vitest/coverage-v8": "^3.2.4",
+    "abcjs": "^6.6.3",
+    "happy-dom": "^20.9.0",
+    "rollup": "^4.60.3",
+    "typescript": "^6.0.3",
+    "vitest": "^3.2.4",
+    "tslib": "^2.8.1"
+  }
+}

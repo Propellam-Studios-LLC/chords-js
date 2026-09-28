@@ -1,0 +1,2925 @@
+[
+  {
+    "name": "all_blues",
+    "key": "G",
+    "time_signature": "4/4",
+    "title": "All Blues",
+    "composer": "Miles Davis",
+    "form": {
+      "bars": [
+        {
+          "bar": 1,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "G7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 2,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "G7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 3,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "G7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 4,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "G7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 5,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "G7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 6,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "G7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 7,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "G7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 8,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "G7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 9,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "C7/G",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "bass": "G",
+              "type": "dom7",
+              "degree": "IV",
+              "bass_degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 10,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "C7/G",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "bass": "G",
+              "type": "dom7",
+              "degree": "IV",
+              "bass_degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 11,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "C7/G",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "bass": "G",
+              "type": "dom7",
+              "degree": "IV",
+              "bass_degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 12,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "C7/G",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "bass": "G",
+              "type": "dom7",
+              "degree": "IV",
+              "bass_degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 13,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "G7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 14,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "G7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 15,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "G7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 16,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "G7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 17,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "D7#9",
+              "root": "D",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "7#9",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 18,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "D7#9",
+              "root": "D",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "7#9",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 19,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Eb7#9",
+              "root": "Eb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "7#9",
+              "degree": "bVI"
+            }
+          ]
+        },
+        {
+          "bar": 20,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "D7#9",
+              "root": "D",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "7#9",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 21,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "G7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 22,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "G7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 23,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "G7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 24,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "G7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        }
+      ],
+      "repeat_start": 0,
+      "repeat_end": null,
+      "max_volta": 0
+    },
+    "golden_abc": "X:1\nT:All Blues\nC:Miles Davis\nR:waltz\nO:American\nS:https://www.pauldietrichjazz.com/post/essential-jazz-tunes\nM:4/4\nL:1/4\nQ:1/4=120\nK:G\n\"G7\" G, [GBd=f] G, [GBdf] | \"G7\" G, [GBd=f] G, [GBdf] | \"G7\" G, [GBd=f] G, [GBdf] | \"G7\" G, [GBd=f] G, [GBdf] |\n\"G7\" G, [GBd=f] G, [GBdf] | \"G7\" G, [GBd=f] G, [GBdf] | \"G7\" G, [GBd=f] G, [GBdf] | \"G7\" G, [GBd=f] G, [GBdf] |\n\"C7/G\" G, [CEG_B] G, [CEGB] | \"C7/G\" G, [CEG_B] G, [CEGB] | \"C7/G\" G, [CEG_B] G, [CEGB] | \"C7/G\" G, [CEG_B] G, [CEGB] |\n\"G7\" G, [GBd=f] G, [GBdf] | \"G7\" G, [GBd=f] G, [GBdf] | \"G7\" G, [GBd=f] G, [GBdf] | \"G7\" G, [GBd=f] G, [GBdf] |\n\"D7#9\" D, [DFAc^e] D, [DFAce] | \"D7#9\" D, [DFAc^e] D, [DFAce] | \"Eb7#9\" _E, [_EG_B_df] E, [EGBdf] | \"D7#9\" D, [DFAc^e] D, [DFAce] |\n\"G7\" G, [GBd=f] G, [GBdf] | \"G7\" G, [GBd=f] G, [GBdf] | \"G7\" G, [GBd=f] G, [GBdf] | \"G7\" G, [GBd=f] G, [GBdf] |]\n"
+  },
+  {
+    "name": "autumn_leaves",
+    "key": "Gm",
+    "time_signature": "4/4",
+    "title": "Autumn Leaves",
+    "composer": "Joseph Kosma",
+    "form": {
+      "bars": [
+        {
+          "bar": 1,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm7",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "iv"
+            }
+          ]
+        },
+        {
+          "bar": 2,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "F7",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "VII"
+            }
+          ]
+        },
+        {
+          "bar": 3,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bbmaj7",
+              "root": "Bb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "maj7",
+              "degree": "III"
+            }
+          ]
+        },
+        {
+          "bar": 4,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Ebmaj7",
+              "root": "Eb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "maj7",
+              "degree": "VI"
+            }
+          ]
+        },
+        {
+          "bar": 5,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Am7b5",
+              "root": "A",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "m7b5",
+              "degree": "ii"
+            }
+          ]
+        },
+        {
+          "bar": 6,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "D7b13",
+              "root": "D",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "7b13",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 7,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm6",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min6",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 8,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm6",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min6",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 9,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Am7b5",
+              "root": "A",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "m7b5",
+              "degree": "ii"
+            }
+          ]
+        },
+        {
+          "bar": 10,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "D7b13",
+              "root": "D",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "7b13",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 11,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm6",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min6",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 12,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm6",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min6",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 13,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm7",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "iv"
+            }
+          ]
+        },
+        {
+          "bar": 14,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "F7",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "VII"
+            }
+          ]
+        },
+        {
+          "bar": 15,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bbmaj7",
+              "root": "Bb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "maj7",
+              "degree": "III"
+            }
+          ]
+        },
+        {
+          "bar": 16,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Ebmaj7",
+              "root": "Eb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "maj7",
+              "degree": "VI"
+            }
+          ]
+        },
+        {
+          "bar": 17,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Am7b5",
+              "root": "A",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "m7b5",
+              "degree": "ii"
+            }
+          ]
+        },
+        {
+          "bar": 18,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "D7b13",
+              "root": "D",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "7b13",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 19,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm7/2",
+              "root": "G",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "i"
+            },
+            {
+              "token": "Gb7/2",
+              "root": "Gb",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "bI"
+            }
+          ]
+        },
+        {
+          "bar": 20,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Fm7/2",
+              "root": "F",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "vii"
+            },
+            {
+              "token": "E7/2",
+              "root": "E",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "#VI"
+            }
+          ]
+        },
+        {
+          "bar": 21,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Am7b5",
+              "root": "A",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "m7b5",
+              "degree": "ii"
+            }
+          ]
+        },
+        {
+          "bar": 22,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "D7b13",
+              "root": "D",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "7b13",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 23,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm6",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min6",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 24,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm6",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min6",
+              "degree": "i"
+            }
+          ]
+        }
+      ],
+      "repeat_start": 0,
+      "repeat_end": 8,
+      "max_volta": 0
+    },
+    "golden_abc": "X:1\nT:Autumn Leaves\nC:Joseph Kosma\nR:swing\nO:American\nS:https://www.pauldietrichjazz.com/post/essential-jazz-tunes\nM:4/4\nL:1/4\nQ:1/4=120\nK:Gm\nP:A\n\"Cm7\" C, [CEGB] C, [CEGB] | \"F7\" F, [FAce] F, [FAce] | \"Bbmaj7\" B, [Bdfa] B, [Bdfa] | \"Ebmaj7\" E, [EGBd] E, [EGBd] |\n\"Am7b5\" A, [Aceg] A, [Aceg] | \"D7b13\" D, [D^FAcb] D, [DFAcb] | \"Gm6\" G, [GBd=e] G, [GBde] | \"Gm6\" G, [GBd=e] G, [GBde] :|\nP:B\n\"Am7b5\" A, [Aceg] A, [Aceg] | \"D7b13\" D, [D^FAcb] D, [DFAcb] | \"Gm6\" G, [GBd=e] G, [GBde] | \"Gm6\" G, [GBd=e] G, [GBde] |\n\"Cm7\" C, [CEGB] C, [CEGB] | \"F7\" F, [FAce] F, [FAce] | \"Bbmaj7\" B, [Bdfa] B, [Bdfa] | \"Ebmaj7\" E, [EGBd] E, [EGBd] |]\nP:C\n\"Am7b5\" A, [Aceg] A, [Aceg] | \"D7b13\" D, [D^FAcb] D, [DFAcb] | \"Gm7\" G, [GBdf] \"Gb7\" _G, [_GB_d_f] | \"Fm7\" F, [F_Ace] \"E7\" =E, [=E^G=Bd] |\n\"Am7b5\" A, [Aceg] A, [Aceg] | \"D7b13\" D, [D^FAcb] D, [DFAcb] | \"Gm6\" G, [GBd=e] G, [GBde] | \"Gm6\" G, [GBd=e] G, [GBde] |]\n"
+  },
+  {
+    "name": "bags_groove",
+    "key": "F",
+    "time_signature": "4/4",
+    "title": "Bags' Groove",
+    "composer": "Milt Jackson",
+    "form": {
+      "bars": [
+        {
+          "bar": 1,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "F7",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 2,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bb7",
+              "root": "Bb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "IV"
+            }
+          ]
+        },
+        {
+          "bar": 3,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "F7",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 4,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "F7",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 5,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bb7",
+              "root": "Bb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "IV"
+            }
+          ]
+        },
+        {
+          "bar": 6,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bb7",
+              "root": "Bb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "IV"
+            }
+          ]
+        },
+        {
+          "bar": 7,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "F7",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 8,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Am7/2",
+              "root": "A",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "iii"
+            },
+            {
+              "token": "D7/2",
+              "root": "D",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "VI"
+            }
+          ]
+        },
+        {
+          "bar": 9,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "ii"
+            }
+          ]
+        },
+        {
+          "bar": 10,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "C7",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 11,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "F7/2",
+              "root": "F",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            },
+            {
+              "token": "D7/2",
+              "root": "D",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "VI"
+            }
+          ]
+        },
+        {
+          "bar": 12,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm7/2",
+              "root": "G",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "ii"
+            },
+            {
+              "token": "C7/2",
+              "root": "C",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "V"
+            }
+          ]
+        }
+      ],
+      "repeat_start": 0,
+      "repeat_end": null,
+      "max_volta": 0
+    },
+    "golden_abc": "X:1\nT:Bags' Groove\nC:Milt Jackson\nR:blues\nO:American\nS:https://www.pauldietrichjazz.com/post/essential-jazz-tunes\nM:4/4\nL:1/4\nQ:1/4=120\nK:F\n\"F7\" F, [FAc_e] F, [FAce] | \"Bb7\" B, [Bdf_a] B, [Bdfa] | \"F7\" F, [FAc_e] F, [FAce] | \"F7\" F, [FAc_e] F, [FAce] |\n\"Bb7\" B, [Bdf_a] B, [Bdfa] | \"Bb7\" B, [Bdf_a] B, [Bdfa] | \"F7\" F, [FAc_e] F, [FAce] | \"Am7\" A, [Aceg] \"D7\" D, [D^FAc] |\n\"Gm7\" G, [GBdf] G, [GBdf] | \"C7\" C, [CEGB] C, [CEGB] | \"F7\" F, [FAc_e] \"D7\" D, [D^FAc] | \"Gm7\" G, [GBdf] \"C7\" C, [CEGB] |]\n"
+  },
+  {
+    "name": "billie_s_bounce",
+    "key": "F",
+    "time_signature": "4/4",
+    "title": "Billie's Bounce",
+    "composer": "Charlie Parker",
+    "form": {
+      "bars": [
+        {
+          "bar": 1,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "F7",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 2,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bb7",
+              "root": "Bb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "IV"
+            }
+          ]
+        },
+        {
+          "bar": 3,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "F7",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 4,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm7/2",
+              "root": "C",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "v"
+            },
+            {
+              "token": "F7/2",
+              "root": "F",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 5,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bb7",
+              "root": "Bb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "IV"
+            }
+          ]
+        },
+        {
+          "bar": 6,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bm7b5",
+              "root": "B",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "m7b5",
+              "degree": "#iv"
+            }
+          ]
+        },
+        {
+          "bar": 7,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "F7",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 8,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Am7/2",
+              "root": "A",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "iii"
+            },
+            {
+              "token": "D7/2",
+              "root": "D",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "VI"
+            }
+          ]
+        },
+        {
+          "bar": 9,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "ii"
+            }
+          ]
+        },
+        {
+          "bar": 10,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "C7",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 11,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "F7/2",
+              "root": "F",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            },
+            {
+              "token": "D7/2",
+              "root": "D",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "VI"
+            }
+          ]
+        },
+        {
+          "bar": 12,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm7/2",
+              "root": "G",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "ii"
+            },
+            {
+              "token": "C7/2",
+              "root": "C",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "V"
+            }
+          ]
+        }
+      ],
+      "repeat_start": 0,
+      "repeat_end": null,
+      "max_volta": 0
+    },
+    "golden_abc": "X:1\nT:Billie's Bounce\nC:Charlie Parker\nR:blues\nO:American\nS:https://www.pauldietrichjazz.com/post/essential-jazz-tunes\nM:4/4\nL:1/4\nQ:1/4=120\nK:F\n\"F7\" F, [FAc_e] F, [FAce] | \"Bb7\" B, [Bdf_a] B, [Bdfa] | \"F7\" F, [FAc_e] F, [FAce] | \"Cm7\" C, [C_EGB] \"F7\" F, [FAc_e] |\n\"Bb7\" B, [Bdf_a] B, [Bdfa] | \"Bm7b5\" =B, [=Bdfa] B, [Bdfa] | \"F7\" F, [FAc_e] F, [FAce] | \"Am7\" A, [Aceg] \"D7\" D, [D^FAc] |\n\"Gm7\" G, [GBdf] G, [GBdf] | \"C7\" C, [CEGB] C, [CEGB] | \"F7\" F, [FAc_e] \"D7\" D, [D^FAc] | \"Gm7\" G, [GBdf] \"C7\" C, [CEGB] |]\n"
+  },
+  {
+    "name": "blue_bossa",
+    "key": "Cm",
+    "time_signature": "4/4",
+    "title": "Blue Bossa",
+    "composer": "Kenny Dorham",
+    "form": {
+      "bars": [
+        {
+          "bar": 1,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm7",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 2,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm7",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 3,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Fm7",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "iv"
+            }
+          ]
+        },
+        {
+          "bar": 4,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Fm7",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "iv"
+            }
+          ]
+        },
+        {
+          "bar": 5,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Dm7b5",
+              "root": "D",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "m7b5",
+              "degree": "ii"
+            }
+          ]
+        },
+        {
+          "bar": 6,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "G7b9",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "7b9",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 7,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm7",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 8,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm7",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 9,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Ebm7",
+              "root": "Eb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "iii"
+            }
+          ]
+        },
+        {
+          "bar": 10,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Ab7",
+              "root": "Ab",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "VI"
+            }
+          ]
+        },
+        {
+          "bar": 11,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Dbmaj7",
+              "root": "Db",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "maj7",
+              "degree": "bII"
+            }
+          ]
+        },
+        {
+          "bar": 12,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Dbmaj7",
+              "root": "Db",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "maj7",
+              "degree": "bII"
+            }
+          ]
+        },
+        {
+          "bar": 13,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Dm7b5",
+              "root": "D",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "m7b5",
+              "degree": "ii"
+            }
+          ]
+        },
+        {
+          "bar": 14,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "G7b9",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "7b9",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 15,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm7",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 16,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Dm7b5/2",
+              "root": "D",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "m7b5",
+              "degree": "ii"
+            },
+            {
+              "token": "G7b9/2",
+              "root": "G",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "7b9",
+              "degree": "V"
+            }
+          ]
+        }
+      ],
+      "repeat_start": 0,
+      "repeat_end": null,
+      "max_volta": 0
+    },
+    "golden_abc": "X:1\nT:Blue Bossa\nC:Kenny Dorham\nR:bossa\nO:American\nS:https://www.pauldietrichjazz.com/post/essential-jazz-tunes\nM:4/4\nL:1/4\nQ:1/4=120\nK:Cm\n\"Cm7\" C, [CEGB] C, [CEGB] | \"Cm7\" C, [CEGB] C, [CEGB] | \"Fm7\" F, [FAce] F, [FAce] | \"Fm7\" F, [FAce] F, [FAce] |\n\"Dm7b5\" D, [DFAc] D, [DFAc] | \"G7b9\" G, [G=Bdfa] G, [GBdfa] | \"Cm7\" C, [CEGB] C, [CEGB] | \"Cm7\" C, [CEGB] C, [CEGB] |\n\"Ebm7\" E, [E_GB_d] E, [EGBd] | \"Ab7\" A, [Ace_g] A, [Aceg] | \"Dbmaj7\" _D, [_DFAc] D, [DFAc] | \"Dbmaj7\" _D, [_DFAc] D, [DFAc] |\n\"Dm7b5\" D, [DFAc] D, [DFAc] | \"G7b9\" G, [G=Bdfa] G, [GBdfa] | \"Cm7\" C, [CEGB] C, [CEGB] | \"Dm7b5\" D, [DFAc] \"G7b9\" G, [G=Bdfa] |]\n"
+  },
+  {
+    "name": "blue_monk",
+    "key": "Bb",
+    "time_signature": "4/4",
+    "title": "Blue Monk",
+    "composer": "Thelonious Monk",
+    "form": {
+      "bars": [
+        {
+          "bar": 1,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bb7",
+              "root": "Bb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 2,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Eb7",
+              "root": "Eb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "IV"
+            }
+          ]
+        },
+        {
+          "bar": 3,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bb7",
+              "root": "Bb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 4,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bb7",
+              "root": "Bb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 5,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Eb7",
+              "root": "Eb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "IV"
+            }
+          ]
+        },
+        {
+          "bar": 6,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Eb7",
+              "root": "Eb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "IV"
+            }
+          ]
+        },
+        {
+          "bar": 7,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bb7",
+              "root": "Bb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 8,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bb7",
+              "root": "Bb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 9,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "F7",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 10,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "F7",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 11,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bb7",
+              "root": "Bb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 12,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bb7",
+              "root": "Bb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        }
+      ],
+      "repeat_start": 0,
+      "repeat_end": null,
+      "max_volta": 0
+    },
+    "golden_abc": "X:1\nT:Blue Monk\nC:Thelonious Monk\nR:blues\nO:American\nS:https://www.pauldietrichjazz.com/post/essential-jazz-tunes\nM:4/4\nL:1/4\nQ:1/4=120\nK:Bb\n\"Bb7\" B, [Bdf_a] B, [Bdfa] | \"Eb7\" E, [EGB_d] E, [EGBd] | \"Bb7\" B, [Bdf_a] B, [Bdfa] | \"Bb7\" B, [Bdf_a] B, [Bdfa] |\n\"Eb7\" E, [EGB_d] E, [EGBd] | \"Eb7\" E, [EGB_d] E, [EGBd] | \"Bb7\" B, [Bdf_a] B, [Bdfa] | \"Bb7\" B, [Bdf_a] B, [Bdfa] |\n\"F7\" F, [FAce] F, [FAce] | \"F7\" F, [FAce] F, [FAce] | \"Bb7\" B, [Bdf_a] B, [Bdfa] | \"Bb7\" B, [Bdf_a] B, [Bdfa] |]\n"
+  },
+  {
+    "name": "bye_bye_blackbird",
+    "key": "F",
+    "time_signature": "4/4",
+    "title": "Bye Bye Blackbird",
+    "composer": "Ray Henderson",
+    "form": {
+      "bars": [
+        {
+          "bar": 1,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Fmaj7",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "maj7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 2,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm7/2",
+              "root": "G",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "ii"
+            },
+            {
+              "token": "C7/2",
+              "root": "C",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 3,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Fmaj7",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "maj7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 4,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm7/2",
+              "root": "G",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "ii"
+            },
+            {
+              "token": "C7/2",
+              "root": "C",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 5,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Fmaj7",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "maj7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 6,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Am7b5/2",
+              "root": "A",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "m7b5",
+              "degree": "iii"
+            },
+            {
+              "token": "D7b9/2",
+              "root": "D",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "7b9",
+              "degree": "VI"
+            }
+          ]
+        },
+        {
+          "bar": 7,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "ii"
+            }
+          ]
+        },
+        {
+          "bar": 8,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "C7",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 9,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "ii"
+            }
+          ]
+        },
+        {
+          "bar": 10,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "D7",
+              "root": "D",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "VI"
+            }
+          ]
+        },
+        {
+          "bar": 11,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "ii"
+            }
+          ]
+        },
+        {
+          "bar": 12,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "C7",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 13,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "ii"
+            }
+          ]
+        },
+        {
+          "bar": 14,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "C7",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 15,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "F6",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "6",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 16,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "F6",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "6",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 17,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "F7",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 18,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "E7",
+              "root": "E",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "VII"
+            }
+          ]
+        },
+        {
+          "bar": 19,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Eb7",
+              "root": "Eb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "bVII"
+            }
+          ]
+        },
+        {
+          "bar": 20,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "D7b9",
+              "root": "D",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "7b9",
+              "degree": "VI"
+            }
+          ]
+        },
+        {
+          "bar": 21,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "ii"
+            }
+          ]
+        },
+        {
+          "bar": 22,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "ii"
+            }
+          ]
+        },
+        {
+          "bar": 23,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Db7",
+              "root": "Db",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "bVI"
+            }
+          ]
+        },
+        {
+          "bar": 24,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "C7",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 25,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Fmaj7",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "maj7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 26,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm7/2",
+              "root": "G",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "ii"
+            },
+            {
+              "token": "C7/2",
+              "root": "C",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 27,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Fmaj7",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "maj7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 28,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Am7b5/2",
+              "root": "A",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "m7b5",
+              "degree": "iii"
+            },
+            {
+              "token": "D7b9/2",
+              "root": "D",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "7b9",
+              "degree": "VI"
+            }
+          ]
+        },
+        {
+          "bar": 29,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm7",
+              "root": "G",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "ii"
+            }
+          ]
+        },
+        {
+          "bar": 30,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "C7",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 31,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Fmaj7",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "maj7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 32,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Gm7/2",
+              "root": "G",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "min7",
+              "degree": "ii"
+            },
+            {
+              "token": "C7/2",
+              "root": "C",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "V"
+            }
+          ]
+        }
+      ],
+      "repeat_start": 0,
+      "repeat_end": null,
+      "max_volta": 0
+    },
+    "golden_abc": "X:1\nT:Bye Bye Blackbird\nC:Ray Henderson\nR:swing\nO:American\nS:https://www.pauldietrichjazz.com/post/essential-jazz-tunes\nM:4/4\nL:1/4\nQ:1/4=120\nK:F\nP:A\n\"Fmaj7\" F, [FAce] F, [FAce] | \"Gm7\" G, [GBdf] \"C7\" C, [CEGB] | \"Fmaj7\" F, [FAce] F, [FAce] | \"Gm7\" G, [GBdf] \"C7\" C, [CEGB] |\n\"Fmaj7\" F, [FAce] F, [FAce] | \"Am7b5\" A, [Ac_eg] \"D7b9\" D, [D^FAce] | \"Gm7\" G, [GBdf] G, [GBdf] | \"C7\" C, [CEGB] C, [CEGB] |\n\"Gm7\" G, [GBdf] G, [GBdf] | \"D7\" D, [D^FAc] D, [DFAc] | \"Gm7\" G, [GBdf] G, [GBdf] | \"C7\" C, [CEGB] C, [CEGB] |\n\"Gm7\" G, [GBdf] G, [GBdf] | \"C7\" C, [CEGB] C, [CEGB] | \"F6\" F, [FAcd] F, [FAcd] | \"F6\" F, [FAcd] F, [FAcd] |]\nP:B\n\"F7\" F, [FAc_e] F, [FAce] | \"E7\" E, [E^G=Bd] E, [EGBd] | \"Eb7\" _E, [_EGB_d] E, [EGBd] | \"D7b9\" D, [D^FAc_e] D, [DFAce] |\n\"Gm7\" G, [GBdf] G, [GBdf] | \"Gm7\" G, [GBdf] G, [GBdf] | \"Db7\" _D, [_DF_A_c] D, [DFAc] | \"C7\" C, [CEGB] C, [CEGB] |\n\"Fmaj7\" F, [FAce] F, [FAce] | \"Gm7\" G, [GBdf] \"C7\" C, [CEGB] | \"Fmaj7\" F, [FAce] F, [FAce] | \"Am7b5\" A, [Ac_eg] \"D7b9\" D, [D^FAce] |\n\"Gm7\" G, [GBdf] G, [GBdf] | \"C7\" C, [CEGB] C, [CEGB] | \"Fmaj7\" F, [FAce] F, [FAce] | \"Gm7\" G, [GBdf] \"C7\" C, [CEGB] |]\n"
+  },
+  {
+    "name": "doxy",
+    "key": "Bb",
+    "time_signature": "4/4",
+    "title": "Doxy",
+    "composer": "Sonny Rollins",
+    "form": {
+      "bars": [
+        {
+          "bar": 1,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bb7/2",
+              "root": "Bb",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            },
+            {
+              "token": "A7/2",
+              "root": "A",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "VII"
+            }
+          ]
+        },
+        {
+          "bar": 2,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Ab7/2",
+              "root": "Ab",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "bVII"
+            },
+            {
+              "token": "G7/2",
+              "root": "G",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "VI"
+            }
+          ]
+        },
+        {
+          "bar": 3,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "C7/2",
+              "root": "C",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "II"
+            },
+            {
+              "token": "F7/2",
+              "root": "F",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 4,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bb7",
+              "root": "Bb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 5,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bb7/2",
+              "root": "Bb",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            },
+            {
+              "token": "A7/2",
+              "root": "A",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "VII"
+            }
+          ]
+        },
+        {
+          "bar": 6,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Ab7/2",
+              "root": "Ab",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "bVII"
+            },
+            {
+              "token": "G7/2",
+              "root": "G",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "VI"
+            }
+          ]
+        },
+        {
+          "bar": 7,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "C7",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "II"
+            }
+          ]
+        },
+        {
+          "bar": 8,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "F7",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 9,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bb7",
+              "root": "Bb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 10,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bb7",
+              "root": "Bb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            }
+          ]
+        },
+        {
+          "bar": 11,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Eb7",
+              "root": "Eb",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "IV"
+            }
+          ]
+        },
+        {
+          "bar": 12,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Em7b5",
+              "root": "E",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "m7b5",
+              "degree": "#iv"
+            }
+          ]
+        },
+        {
+          "bar": 13,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bb7/2",
+              "root": "Bb",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            },
+            {
+              "token": "A7/2",
+              "root": "A",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "VII"
+            }
+          ]
+        },
+        {
+          "bar": 14,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Ab7/2",
+              "root": "Ab",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "bVII"
+            },
+            {
+              "token": "G7/2",
+              "root": "G",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "VI"
+            }
+          ]
+        },
+        {
+          "bar": 15,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "C7/2",
+              "root": "C",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "II"
+            },
+            {
+              "token": "F7/2",
+              "root": "F",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "V"
+            }
+          ]
+        },
+        {
+          "bar": 16,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Bb7/2",
+              "root": "Bb",
+              "units": 0.5,
+              "beat": 1.0,
+              "type": "dom7",
+              "degree": "I"
+            },
+            {
+              "token": "F7/2",
+              "root": "F",
+              "units": 0.5,
+              "beat": 3.0,
+              "type": "dom7",
+              "degree": "V"
+            }
+          ]
+        }
+      ],
+      "repeat_start": 0,
+      "repeat_end": null,
+      "max_volta": 0
+    },
+    "golden_abc": "X:1\nT:Doxy\nC:Sonny Rollins\nR:swing\nO:American\nS:https://www.pauldietrichjazz.com/post/essential-jazz-tunes\nM:4/4\nL:1/4\nQ:1/4=120\nK:Bb\n\"Bb7\" B, [Bdf_a] \"A7\" A, [A^c=eg] | \"Ab7\" _A, [_Ace_g] \"G7\" G, [G=Bdf] | \"C7\" C, [C=EGB] \"F7\" F, [FAce] | \"Bb7\" B, [Bdf_a] B, [Bdfa] |\n\"Bb7\" B, [Bdf_a] \"A7\" A, [A^c=eg] | \"Ab7\" _A, [_Ace_g] \"G7\" G, [G=Bdf] | \"C7\" C, [C=EGB] C, [CEGB] | \"F7\" F, [FAce] F, [FAce] |\n\"Bb7\" B, [Bdf_a] B, [Bdfa] | \"Bb7\" B, [Bdf_a] B, [Bdfa] | \"Eb7\" E, [EGB_d] E, [EGBd] | \"Em7b5\" =E, [=EGBd] E, [EGBd] |\n\"Bb7\" B, [Bdf_a] \"A7\" A, [A^c=eg] | \"Ab7\" _A, [_Ace_g] \"G7\" G, [G=Bdf] | \"C7\" C, [C=EGB] \"F7\" F, [FAce] | \"Bb7\" B, [Bdf_a] \"F7\" F, [FAce] |]\n"
+  },
+  {
+    "name": "footprints",
+    "key": "Cm",
+    "time_signature": "3/4",
+    "title": "Footprints",
+    "composer": "Wayne Shorter",
+    "form": {
+      "bars": [
+        {
+          "bar": 1,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm11",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min11",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 2,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm11",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min11",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 3,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm11",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min11",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 4,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm11",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min11",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 5,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm11",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min11",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 6,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm11",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min11",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 7,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm11",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min11",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 8,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm11",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min11",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 9,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Fm11",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min11",
+              "degree": "iv"
+            }
+          ]
+        },
+        {
+          "bar": 10,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Fm11",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min11",
+              "degree": "iv"
+            }
+          ]
+        },
+        {
+          "bar": 11,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Fm11",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min11",
+              "degree": "iv"
+            }
+          ]
+        },
+        {
+          "bar": 12,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Fm11",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min11",
+              "degree": "iv"
+            }
+          ]
+        },
+        {
+          "bar": 13,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm11",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min11",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 14,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm11",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min11",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 15,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm11",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min11",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 16,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm11",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min11",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 17,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "F#m7b5",
+              "root": "F#",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "m7b5",
+              "degree": "#iv"
+            }
+          ]
+        },
+        {
+          "bar": 18,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "F7#11",
+              "root": "F",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "7#11",
+              "degree": "IV"
+            }
+          ]
+        },
+        {
+          "bar": 19,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "E7b9",
+              "root": "E",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "7b9",
+              "degree": "#III"
+            }
+          ]
+        },
+        {
+          "bar": 20,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "A7b9",
+              "root": "A",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "7b9",
+              "degree": "#VI"
+            }
+          ]
+        },
+        {
+          "bar": 21,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm11",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min11",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 22,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm11",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min11",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 23,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm11",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min11",
+              "degree": "i"
+            }
+          ]
+        },
+        {
+          "bar": 24,
+          "volta": null,
+          "annotations": [],
+          "chords": [
+            {
+              "token": "Cm11",
+              "root": "C",
+              "units": 1.0,
+              "beat": 1.0,
+              "type": "min11",
+              "degree": "i"
+            }
+          ]
+        }
+      ],
+      "repeat_start": 0,
+      "repeat_end": null,
+      "max_volta": 0
+    },
+    "golden_abc": "X:1\nT:Footprints\nC:Wayne Shorter\nM:3/4\nL:1/4\nQ:1/4=120\nK:Cm\n\"Cm11\" C, [CEGBdf] [CEGBdf] | \"Cm11\" C, [CEGBdf] [CEGBdf] | \"Cm11\" C, [CEGBdf] [CEGBdf] | \"Cm11\" C, [CEGBdf] [CEGBdf] |\n\"Cm11\" C, [CEGBdf] [CEGBdf] | \"Cm11\" C, [CEGBdf] [CEGBdf] | \"Cm11\" C, [CEGBdf] [CEGBdf] | \"Cm11\" C, [CEGBdf] [CEGBdf] |\n\"Fm11\" F, [FAcegb] [FAcegb] | \"Fm11\" F, [FAcegb] [FAcegb] | \"Fm11\" F, [FAcegb] [FAcegb] | \"Fm11\" F, [FAcegb] [FAcegb] |\n\"Cm11\" C, [CEGBdf] [CEGBdf] | \"Cm11\" C, [CEGBdf] [CEGBdf] | \"Cm11\" C, [CEGBdf] [CEGBdf] | \"Cm11\" C, [CEGBdf] [CEGBdf] |\n\"F#m7b5\" ^F, [^F=Ac=e] [FAce] | \"F7#11\" F, [F=Ace=b] [FAceb] | \"E7b9\" =E, [=E^G=Bdf] [EGBdf] | \"A7b9\" =A, [=A^c=egb] [Acegb] |\n\"Cm11\" C, [CEGBdf] [CEGBdf] | \"Cm11\" C, [CEGBdf] [CEGBdf] | \"Cm11\" C, [CEGBdf] [CEGBdf] | \"Cm11\" C, [CEGBdf] [CEGBdf] |]\n"
+  }
+]
