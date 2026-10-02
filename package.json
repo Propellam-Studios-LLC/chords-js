@@ -1,6 +1,6 @@
 {
   "name": "chords-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A reference library for the .chords harmony format \u2014 parse, transpose, Roman-numeral analysis, chord-chart rendering, and an ABC bridge to abcjs (the abcjs-analogue for chord progressions).",
   "repository": {
     "type": "git",
